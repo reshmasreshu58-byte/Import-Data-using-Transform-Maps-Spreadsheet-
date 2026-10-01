@@ -3,3 +3,4 @@ milestone-1[phase2] ![image alt](https://github.com/reshmasreshu58-byte/Import-D
 milestone-2[phase3] ![image alt](https://github.com/reshmasreshu58-byte/Import-Data-using-Transform-Maps-Spreadsheet-/blob/349a43fd5813560158b68cb2c9c89258d4685b25/milestone-2%5Bphase3%5D.jpeg)
 milestone-2[phase4] ![image alt](https://github.com/reshmasreshu58-byte/Import-Data-using-Transform-Maps-Spreadsheet-/blob/7d5836090d2b24e5dc4d3192da30024bf9fc376f/milestone-2%5Bphase4%5D.jpeg)
 milestone-3[phase5] ![image alt](https://github.com/reshmasreshu58-byte/Import-Data-using-Transform-Maps-Spreadsheet-/blob/9ef9fa72cec60b8cce64d68736dbec583dfa7d5d/milestone-3%5Bphase5%5D.jpeg)
+milestone-3[phase6] ![image alt](https://github.com/reshmasreshu58-byte/Import-Data-using-Transform-Maps-Spreadsheet-/blob/ba884836c3ec702548973aff7af12cfef1aa71a5/milestone-3%5Bphase6%5D.jpeg)
